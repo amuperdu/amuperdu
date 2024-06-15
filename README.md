@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amuperdu&label=Profile%20views&color=0e75b6&style=flat" alt="amuperdu" /> </p>
 
 
-- 🌱 I’m currently learning **Malware Detection & Cloud Security**
+- 🌱 I’m currently learning about **Malware Detection & Cloud Security**
 
-- 💬 Ask me about **SIEM**
+- 💬 Ask me about **SIEM Tools**
 
-- 📫 How to reach me **amuperdu@gmail.com**
+- 📫 Here is how to reach me **amuperdu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
